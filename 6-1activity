@@ -1,0 +1,6 @@
+size(600,600);
+ellipseMode(CENTER);
+ellipse(400,400,100,100)
+ellipse(200,200,100,100)
+ellipse(400,200,100,100)
+ellipse(200,400,100,100)
